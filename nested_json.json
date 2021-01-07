@@ -1,0 +1,48 @@
+{
+   "_id": {
+      "emp_id": "123456",
+      "DOJ": "20210101"
+   },
+   "emp": {
+      "details": {
+         "WorkLocation": {
+            "Country": "India"
+         },
+         "body": {
+            "Document": {
+               "action": "Add",
+               "id": "123456",
+               "Doc": {
+                  "Identification": {
+                     "FirstName": "Joey",
+                     "Last Name": "Lark",
+                     "Workstation": "FL03"
+                  },
+                  "Dates": [
+                     {
+                        "DOJ": "20210101"
+                     },
+                     {
+                        "DOP": "20210601"
+                     }
+                  ],
+                  "Status": {
+                     "Position": "Active",
+                     "StsFlag": "1"
+                  },
+                  "Address": {
+                     "CurrentAddress": [
+                        {
+                           "CurrentOwner": {
+                              "Name": "Test Building, Bangalore",
+                              "Pincode": "345678"
+                           }
+                        }
+                     ]
+                  }
+               }
+            }
+         }
+      }
+   }
+}
