@@ -11,6 +11,10 @@ File Structure
 	
 * `nested_json` : Json Sample used in this project
 
+Results
+--------------------------
+
+The blog related to this can be found at the post available [here](https://sunkusowmyasree.medium.com/different-ways-to-flatten-deeply-nested-jsons-into-a-pandas-data-frame-ace2380b401c).
 
 
 
